@@ -1,8 +1,8 @@
-# Hola!! Soy Juan Marcos Orellana 👋 😊
+# Hola!! Soy Juan Marcos Orellana 👋 😊 
 
-Soy desarrollador Python y me fui inclinando por este mundo hermoso del Analisis de datos.
+Soy desarrollador **Python** y me fui inclinando por este mundo hermoso del **Analisis de datos**.
 
-### ¿Qué es un analista de datos? 🤓
+## ¿Qué es un analista de datos? 🤓
 
 Un analista de datos es un profesional que recopila, analiza y visualiza datos para ayudar a las empresas a tomar decisiones informadas. Los analistas de datos utilizan una variedad de herramientas y técnicas para comprender los datos, identificar tendencias y patrones, y comunicar sus hallazgos a los demás.
 Las herramientas y lenguajes que utilizo
@@ -46,4 +46,13 @@ Tengo una sólida experiencia en el análisis de datos utilizando una variedad d
 
 Para obtener más información sobre mi experiencia, mi correo siempre esta disponible para consultas y abierto a propuestas! 😄
 
-📫 juanmarcoso@gmail.com 🔗 [Linkedin](https://www.linkedin.com/in/juan-marcos-orellana-35a308168)
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3bXZmd3QxNmcyeThrNzRyc24xYmlhYjd4eGFtbzVubmN4d3JmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/obpcqi2zMTflCIVsWC/giphy.gif" alt="Gmail" width="60" height="60" style="float:left; margin-right:10px;"/> 
+  <div style="text-align:center">juanmarcoso@gmail.com</div>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-marcos-orellana-35a308168" target="_blank" rel="noreferrer"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZwbm50cXZ1bmp1cGZkNmYwOHd2NnVsNnVzeGszbXprOHhlODB1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0dq0SHfW4FLjfNtq1Z/giphy.gif" alt="Linkedin" width="60" height="60"/> 
+  </a> 
+</p>
