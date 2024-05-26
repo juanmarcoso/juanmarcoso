@@ -42,7 +42,9 @@ Tengo una sólida experiencia en el análisis de datos utilizando una variedad d
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Contacto 📲
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmarcoso&show_icons=true&locale=en&layout=compact" alt="juanmarcoso" /></p>
+
+## Hablamos? ☕
 
 Para obtener más información sobre mi experiencia, mi correo siempre esta disponible para consultas y abierto a propuestas! 😄
 
