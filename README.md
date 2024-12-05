@@ -4,7 +4,7 @@ Soy estudiante avanzado en Programación en la Universidad Tecnológica Nacional
 
 ## Proyectos que he realizado
 
-He realizado varios proyectos de análisis de datos, algunos subidos en esta plataforma. Actualmente me encuentro trabajando en otros más... Estate atento!!! 😃 😃 😃
+He realizado varios proyectos, algunos subidos en esta plataforma. Actualmente me encuentro trabajando en otros más... Estate atento!!! 😃 😃 😃
 
 ### Java
 - [CRUD en Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest): 
@@ -30,6 +30,10 @@ He realizado varios proyectos de análisis de datos, algunos subidos en esta pla
 
   **Aqui se trabajo con un dataset de Hoteles. Se utilizaron las librerias: Pandas, Numpy, Matplotlib, Seaborn, Plotly, OS**
 ### JavaScript
+
+- [Portafolio Personal](https://github.com/juanmarcoso/Portafolio-Web-2):
+
+  **La aplicación es un portafolio personal desarrollado con Vue.js. Se utilizo: JavaScript, Vue.js, Html, CSS. Esta app esta deployada en Netlify, puedes verla [AQUI](https://portafoliovue-juan-orellana.netlify.app/)**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@juanmarcoso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-marcos-orellana-35a308168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
