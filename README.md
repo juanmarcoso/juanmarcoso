@@ -7,6 +7,12 @@ Soy estudiante avanzado en Programación en la Universidad Tecnológica Nacional
 He realizado varios proyectos de análisis de datos, algunos subidos en esta plataforma. Actualmente me encuentro trabajando en otros más... Estate atento!!! 😃 😃 😃
 
 ### Java
+- [CRUD en Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest): 
+
+  **App deployada en [Railway](https://java-railway-crud-a-rest-production.up.railway.app/productos), utilizamos Docker y PostgreSQL.**
+- [Proyecto Ventas](https://github.com/juanmarcoso/VentasEnJava/blob/main/README.md):
+
+  **Aplicación desarrollada con una arquitectura modular basada en clases y paquetes para optimizar el rendimiento y la creación de objetos**
 ### Python
 ### JavaScript
 
