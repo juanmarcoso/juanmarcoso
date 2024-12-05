@@ -14,6 +14,21 @@ He realizado varios proyectos de análisis de datos, algunos subidos en esta pla
 
   **Aplicación desarrollada con una arquitectura modular basada en clases y paquetes para optimizar el rendimiento y la creación de objetos**
 ### Python
+- [CRUD en Python](https://github.com/juanmarcoso/CRUD-Python):
+
+  **App en Python con MySQL**
+
+- [Data Analisis - Titanic](https://github.com/juanmarcoso/Titanic-dataset-analysis):
+
+  **Aqui se tomo un dataset y se trabajo con el. Se trabajo con Panda y Matplotlib.**
+
+- [Data Analisis - Taxis de New York](https://github.com/juanmarcoso/TaxisNY-dataset-analysis):
+
+  **Aqui se trabajo con un dataset de recorridos y tarifas de taxis en Nueva York. Se utilizo Seaborn, Pandas y Python**
+
+- [Data Analisis - Hotel](https://github.com/juanmarcoso/Data_Analysis_Hotel/blob/main/AnalysisHotel.ipynb):
+
+  **Aqui se trabajo con un dataset de Hoteles. Se utilizaron las librerias: Pandas, Numpy, Matplotlib, Seaborn, Plotly, OS**
 ### JavaScript
 
 ## 🌐 Socials:
