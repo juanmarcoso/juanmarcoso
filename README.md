@@ -35,6 +35,9 @@ He realizado varios proyectos, algunos subidos en esta plataforma. Actualmente m
 
   **La aplicación es un portafolio personal desarrollado con Vue.js. Se utilizo: JavaScript, Vue.js, Html, CSS. Esta app esta deployada en Netlify, puedes verla [AQUI](https://portafoliovue-juan-orellana.netlify.app/)**
 
+### Trabajos de la UTN 
+- Los trabajos realizados en la Tecnicatura se ven reflejados [AQUI](https://github.com/juanmarcoso/Tec-SegundoSemestre). Son trabajos teoricos y ejercicios realizados en **Java, JavaScript y Python**. 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@juanmarcoso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-marcos-orellana-35a308168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
