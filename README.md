@@ -1,6 +1,6 @@
 # Hola!! Soy Juan Marcos Orellana 👋 😊 
 
-Soy estudiante avanzado en Programación en la Universidad Tecnológica Nacional (UTN), con sólidos conocimientos en programación y desarrollo de software. Me apasiona la tecnología y la resolución de problemas complejos. En este repositorio, comparto algunos de mis proyectos personales y académicos en **Java**, **Python** y **JavaScript**.
+Soy estudiante avanzado en la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN), con sólidos conocimientos en programación y desarrollo de software. Me apasiona la tecnología y la resolución de problemas complejos. En este repositorio, comparto algunos de mis proyectos personales y académicos en **Java**, **Python** y **JavaScript**.
 
 ## Proyectos que he realizado
 
