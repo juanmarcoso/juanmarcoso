@@ -10,6 +10,9 @@ He realizado varios proyectos, algunos subidos en esta plataforma. Actualmente m
 - [CRUD en Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest): 
 
   **App deployada en [Railway](https://java-railway-crud-a-rest-production.up.railway.app/productos), utilizamos Docker y PostgreSQL.**
+- [Listado Peliculas](https://github.com/juanmarcoso/CatalogoPeliculas)
+
+  **Esta aplicación permite agregar, listar y buscar películas en un listado. Se utiliza una interfaz de usuario sencilla para interactuar con el usuario. Se crea un documento .txt para almacenar el listado agregado de Peliculas**
 - [Proyecto Ventas](https://github.com/juanmarcoso/VentasEnJava/blob/main/README.md):
 
   **Aplicación desarrollada con una arquitectura modular basada en clases y paquetes para optimizar el rendimiento y la creación de objetos**
