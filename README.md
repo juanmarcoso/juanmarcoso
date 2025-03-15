@@ -8,40 +8,45 @@ I'm an advanced Programming student at the **National Technological University (
 
 I have completed several projects, some of which are uploaded to this platform. Currently, I am working on more... Stay tuned!!! 😃 😃 😃
 
-### Java
-- [CRUD en Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest): 
+## Projects I've Worked On
 
-  **App deployada en [Railway](https://java-railway-crud-a-rest-production.up.railway.app/productos), utilizamos Docker y PostgreSQL.**
-- [Listado Peliculas](https://github.com/juanmarcoso/CatalogoPeliculas)
-
-  **Esta aplicación permite agregar, listar y buscar películas en un listado. Se utiliza una interfaz de usuario sencilla para interactuar con el usuario. Se crea un documento .txt para almacenar el listado agregado de Peliculas**
-- [Proyecto Ventas](https://github.com/juanmarcoso/VentasEnJava/blob/main/README.md):
-
-  **Aplicación desarrollada con una arquitectura modular basada en clases y paquetes para optimizar el rendimiento y la creación de objetos**
 ### Python
-- [CRUD en Python](https://github.com/juanmarcoso/CRUD-Python):
+- **[CRUD in Python](https://github.com/juanmarcoso/CRUD-Python):**  
+  A Python application with MySQL integration for performing CRUD (Create, Read, Update, Delete) operations.  
 
-  **App en Python con MySQL**
+- **[Data Analysis - Titanic Dataset](https://github.com/juanmarcoso/Titanic-dataset-analysis):**  
+  Analyzed the Titanic dataset using **Pandas** and **Matplotlib** to explore data trends, survival rates, and visualizations.  
 
-- [Data Analisis - Titanic](https://github.com/juanmarcoso/Titanic-dataset-analysis):
+- **[Data Analysis - New York Taxis Dataset](https://github.com/juanmarcoso/TaxisNY-dataset-analysis):**  
+  Worked with a dataset of New York taxi trips and fares. Utilized **Seaborn**, **Pandas**, and **Python** for data exploration and visualization.  
 
-  **Aqui se tomo un dataset y se trabajo con el. Se trabajo con Panda y Matplotlib.**
+- **[Data Analysis - Hotel Dataset](https://github.com/juanmarcoso/Data_Analysis_Hotel/blob/main/AnalysisHotel.ipynb):**  
+  Analyzed a hotel dataset using libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**, and **OS** to uncover insights and trends.  
 
-- [Data Analisis - Taxis de New York](https://github.com/juanmarcoso/TaxisNY-dataset-analysis):
+---
 
-  **Aqui se trabajo con un dataset de recorridos y tarifas de taxis en Nueva York. Se utilizo Seaborn, Pandas y Python**
+### Java
+- **[CRUD in Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest):**  
+  A CRUD application deployed on **[Railway](https://java-railway-crud-a-rest-production.up.railway.app/productos)**. Built using **Docker** and **PostgreSQL** for database management.  
 
-- [Data Analisis - Hotel](https://github.com/juanmarcoso/Data_Analysis_Hotel/blob/main/AnalysisHotel.ipynb):
+- **[Movie Catalog](https://github.com/juanmarcoso/CatalogoPeliculas):**  
+  A simple Java application that allows users to add, list, and search movies. The application uses a basic user interface and stores the movie list in a `.txt` file.  
 
-  **Aqui se trabajo con un dataset de Hoteles. Se utilizaron las librerias: Pandas, Numpy, Matplotlib, Seaborn, Plotly, OS**
+- **[Sales Project](https://github.com/juanmarcoso/VentasEnJava/blob/main/README.md):**  
+  A modular Java application designed with a class and package-based architecture to optimize performance and object creation.  
+
+---
+
 ### JavaScript
+- **[Personal Portfolio](https://github.com/juanmarcoso/Portafolio-Web-2):**  
+  A personal portfolio website developed using **Vue.js**, **JavaScript**, **HTML**, and **CSS**. Deployed on **Netlify** and available to view **[HERE](https://portafoliovue-juan-orellana.netlify.app/)**.  
 
-- [Portafolio Personal](https://github.com/juanmarcoso/Portafolio-Web-2):
+---
 
-  **La aplicación es un portafolio personal desarrollado con Vue.js. Se utilizo: JavaScript, Vue.js, Html, CSS. Esta app esta deployada en Netlify, puedes verla [AQUI](https://portafoliovue-juan-orellana.netlify.app/)**
+### UTN (National Technological University) Projects
+- The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tec-SegundoSemestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, and **Python**.
 
-### Trabajos de la UTN 
-- Los trabajos realizados en la Tecnicatura se ven reflejados [AQUI](https://github.com/juanmarcoso/Tec-SegundoSemestre). Son trabajos teoricos y ejercicios realizados en **Java, JavaScript y Python**. 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@juanmarcoso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-marcos-orellana-35a308168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
