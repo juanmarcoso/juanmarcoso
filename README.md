@@ -1,10 +1,12 @@
-# Hola!! Soy Juan Marcos Orellana 👋 😊 
+# Hello! I'm Juan Marcos Orellana 👋 😊
 
-Soy estudiante avanzado en Programación en la Universidad Tecnológica Nacional (UTN), con sólidos conocimientos en programación y desarrollo de software. Me apasiona la tecnología y la resolución de problemas complejos. En este repositorio, comparto algunos de mis proyectos personales y académicos en **Java**, **Python** y **JavaScript**.
---
-## Proyectos que he realizado
+I'm an advanced Programming student at the **National Technological University (UTN)**, with strong knowledge in programming and software development. I am passionate about technology and solving complex problems. In this repository, I share some of my personal and academic projects in **Java**, **Python**, and **JavaScript**.
 
-He realizado varios proyectos, algunos subidos en esta plataforma. Actualmente me encuentro trabajando en otros más... Estate atento!!! 😃 😃 😃
+---
+
+## Projects I've Worked On
+
+I have completed several projects, some of which are uploaded to this platform. Currently, I am working on more... Stay tuned!!! 😃 😃 😃
 
 ### Java
 - [CRUD en Java](https://github.com/juanmarcoso/Java-Railway-CRUD-a-rest): 
