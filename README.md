@@ -8,7 +8,7 @@ I'm an advanced Programming student at the **National Technological University (
 
 I have completed several projects, some of which are uploaded to this platform. Currently, I am working on more... Stay tuned!!! 😃 😃 😃
 
-## Projects I've Worked On
+---
 
 ### Python
 - **[CRUD in Python](https://github.com/juanmarcoso/CRUD-Python):**  
