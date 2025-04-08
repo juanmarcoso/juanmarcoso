@@ -81,10 +81,24 @@ I have completed several projects, some of which are uploaded to this platform. 
  </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juanmarcoso&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanmarcoso&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarcoso&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  
+<table aling="center">
+  <tr>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarcoso&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=juanmarcoso&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    </td>
+  </tr>
+</table>
+
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanmarcoso&theme=solarized-dark&hide_border=false)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juanmarcoso&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
