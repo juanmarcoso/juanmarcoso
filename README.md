@@ -45,7 +45,7 @@ I have completed several projects, some of which are uploaded to this platform. 
 
 ### UTN (National Technological University) Projects
 - **Second semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tec-SegundoSemestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, and **Python**.
-- **Third semester**: The projects and exercises completed during my studies at UTN are showcased [HERE](https://github.com/juanmarcoso/Tecnicatura-3Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
+- **Third semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tecnicatura-3Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
 
 ---
 
