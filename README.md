@@ -1,6 +1,6 @@
 # Hello! I'm Juan Marcos Orellana 👋 😊
 
-I'm an advanced Programming student at the **National Technological University (UTN)**, with strong knowledge in programming and software development. I am passionate about technology and solving complex problems. In this profile, I share some of my personal and academic projects in **Java**, **Python**, and **JavaScript**.
+I´m a university technician in Programming, graduated from the **National Technological University (UTN)**, with strong knowledge in programming and software development. I am passionate about technology and solving complex problems. In this profile, I share some of my personal and academic projects in **Java**, **Python**, and **JavaScript**.
 
 ---
 
