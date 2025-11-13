@@ -41,10 +41,10 @@ I have completed several projects, some of which are uploaded to this platform. 
 - **[PERN-Stack](https://github.com/juanmarcoso/PERN-stack):**
   A complete full-stack web application built with the **PERN** stack (PostgreSQL, Express, React, Node.js). The project implements a user authentication system based on JWT (stored in `httpOnly` cookies) and a full CRUD (Create, Read, Update, Delete) for user-specific tasks.
 
-- **[E-Commerce](https://github.com/juanmarcoso/E-commerce)
+- **[E-Commerce](https://github.com/juanmarcoso/E-commerce):**
   This repository contains the backend server for a secure E-Commerce payment processing gateway. Built on `Node.js` and `Express`, the server's primary function is to integrate and manage transactions via **`Mercado Pago`**, ensuring fast and secure communication with the client application.
   
-- **[Personal Portfolio](https://github.com/juanmarcoso/Portafolio-Web-2):**  
+- **[Some Personal Portfolio](https://github.com/juanmarcoso/Portafolio-Web-2):**  
   A personal portfolio website developed using **Vue.js**, **JavaScript**, **HTML**, and **CSS**. Deployed on **Netlify** and available to view **[HERE](https://portafoliovue-juan-orellana.netlify.app/)**.  
 
 ---
@@ -65,6 +65,7 @@ I have completed several projects, some of which are uploaded to this platform. 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+ ![Node Current](https://img.shields.io/node/v/:packageName)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   
  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -92,7 +93,7 @@ I have completed several projects, some of which are uploaded to this platform. 
 
 <div align="center">
   
-<table aling="center">
+<table align="center">
   <tr>
     <td align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmarcoso&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
@@ -109,12 +110,22 @@ I have completed several projects, some of which are uploaded to this platform. 
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=juanmarcoso&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juanmarcoso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=juanmarcoso&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=juanmarcoso&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="right">
+  
+</div>
 
 
