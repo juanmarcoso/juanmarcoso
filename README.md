@@ -38,6 +38,12 @@ I have completed several projects, some of which are uploaded to this platform. 
 ---
 
 ### JavaScript
+- **[PERN-Stack](https://github.com/juanmarcoso/PERN-stack):**
+  A complete full-stack web application built with the **PERN** stack (PostgreSQL, Express, React, Node.js). The project implements a user authentication system based on JWT (stored in `httpOnly` cookies) and a full CRUD (Create, Read, Update, Delete) for user-specific tasks.
+
+- **[E-Commerce](https://github.com/juanmarcoso/E-commerce)
+  This repository contains the backend server for a secure E-Commerce payment processing gateway. Built on `Node.js` and `Express`, the server's primary function is to integrate and manage transactions via **`Mercado Pago`**, ensuring fast and secure communication with the client application.
+  
 - **[Personal Portfolio](https://github.com/juanmarcoso/Portafolio-Web-2):**  
   A personal portfolio website developed using **Vue.js**, **JavaScript**, **HTML**, and **CSS**. Deployed on **Netlify** and available to view **[HERE](https://portafoliovue-juan-orellana.netlify.app/)**.  
 
@@ -46,6 +52,7 @@ I have completed several projects, some of which are uploaded to this platform. 
 ### UTN (National Technological University) Projects
 - **Second semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tec-SegundoSemestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, and **Python**.
 - **Third semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tecnicatura-3Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
+- **Fourth semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tecnicatura-4Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
 
 ---
 
