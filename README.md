@@ -54,6 +54,15 @@ I have completed several projects, some of which are uploaded to this platform. 
 - **Third semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tecnicatura-3Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
 - **Fourth semester**: The projects and exercises completed during my studies at UTN are showcased **[HERE](https://github.com/juanmarcoso/Tecnicatura-4Semestre)**. These include theoretical work and practical exercises in **Java**, **JavaScript**, **Python** and more!!.
 
+- **Solución 202 (University Portfolio)**: A collaborative repository from our team at UTN, showcasing a collection of projects and exercises in Java, Python, and JavaScript.
+
+  - **[Browse the Code](https://github.com/PowerSystem2024/Solucion202-4Semestre)**
+
+- **E-Commerce SSR (Final Project)**: A full-stack, server-side rendered e-commerce application built with MongoDB, Node.js, and Bootstrap. The project is deployed live on Render.
+
+  - **[View Live Demo](https://eccomerce-ssr.onrender.com)**
+  - **[View Source Code](https://github.com/PowerSystem2024/Solucion202-4Semestre-E-Commerce)**
+
 ---
 
 ## 🌐 Socials:
